@@ -1,0 +1,13 @@
+This "Mikasa" Conky Theme was inspired by and drew conceptual ideas from the following sources:
+
+1. Conky Clock & System Monitor (from GNOME-Look.org)
+   - Creator: P00CH
+   - Source Link: https://www.gnome-look.org/p/1460295/
+   - Reason for inspiration: The overall layout structure of Calnder (Day, Month, Date and year).
+
+2. Conky G-Clock (from Google Plus - Link is now archive, creator unknown)
+   - Creator: Unknown (Link points to a now-closed Google Plus post)
+   - Source Link: https://plus.google.com/100924874037430325534/posts/WfJVEoyrZhm
+   - Reason for inspiration: The specific aesthetic style of the large digital clock and system information display style.
+
+Thank you to the original creators for the inspiration.
