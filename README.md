@@ -46,11 +46,15 @@ If the theme's position does not perfectly align with your desktop, you can easi
 
 * Open the `Mikasa` file with a text editor.
 * Look for the `Window Settings` section.
-* Adjust the horizontal position using `gap_x` (negative values move it left, positive moves it right).
-* Adjust the vertical position using `gap_y` (negative values move it up, positive moves it down).
+* Adjust the horizontal position using `gap_x` (negative values move it left, positive move it right).
+* Adjust the vertical position using `gap_y` (negative values move it up, positive move it down).
 
 ---
 
 ### **Thank You!**
 
 Thank you for downloading the Mikasa theme! We hope you enjoy this blend of information and design on your desktop.
+
+---
+
+This README file was written by Gemini. I am bad at English writing. Sorry...
