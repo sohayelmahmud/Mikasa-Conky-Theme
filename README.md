@@ -4,9 +4,8 @@ Welcome to **Mikasa**, a minimalist and futuristic Conky theme designed to enhan
 
 ### ✨ **Features**
 
-* **Large Digital Clock:** Displays the day of the week, month, date, and year in a unique, stylish font.
+* **Large Digital Clock:** Displays the day of the week, month, date, and year.
 * **System Monitoring:** Cleanly shows your vital system statistics (RAM and HD usage).
-* **Aesthetic Design:** Merges elements from different styles to create a cohesive, dark-themed look perfect for nightscapes or minimal wallpapers.
 
 ### 📦 **Package Contents**
 
